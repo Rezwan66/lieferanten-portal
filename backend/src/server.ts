@@ -1,0 +1,14 @@
+import app from './app';
+
+const port = process.env.PORT || 5000; // The port your express server will be running on.
+
+(function bootstrap() {
+  try {
+    // Start the server
+    app.listen(port, () => {
+      console.log(`Server is running on http://localhost:${port}`);
+    });
+  } catch (error) {
+    console.error('Error starting the server:', error);
+  }
+})();
