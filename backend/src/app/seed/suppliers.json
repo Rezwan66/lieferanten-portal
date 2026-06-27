@@ -1,0 +1,82 @@
+[
+  {
+    "companyName": "Dell Germany GmbH",
+    "email": "sales@dell-germany.de",
+    "phone": "+49-800-7244869",
+    "vatNumber": "DE100000001",
+    "address": "Frankfurter Str. 233, Frankfurt",
+    "status": "APPROVED"
+  },
+  {
+    "companyName": "Logitech Europe SA",
+    "email": "business@logitech.eu",
+    "phone": "+49-800-5550101",
+    "vatNumber": "DE100000002",
+    "address": "Berliner Allee 12, Berlin",
+    "status": "APPROVED"
+  },
+  {
+    "companyName": "HP Deutschland GmbH",
+    "email": "enterprise@hp.de",
+    "phone": "+49-800-4777333",
+    "vatNumber": "DE100000003",
+    "address": "Lyoner Str. 9, Frankfurt",
+    "status": "APPROVED"
+  },
+  {
+    "companyName": "Cisco Systems Germany",
+    "email": "sales@cisco.de",
+    "phone": "+49-800-2447266",
+    "vatNumber": "DE100000004",
+    "address": "Am Söldnermoos 17, Munich",
+    "status": "APPROVED"
+  },
+  {
+    "companyName": "Siemens AG",
+    "email": "procurement@siemens.com",
+    "phone": "+49-89-63600",
+    "vatNumber": "DE100000005",
+    "address": "Werner-von-Siemens-Str. 1, Munich",
+    "status": "APPROVED"
+  },
+  {
+    "companyName": "Bosch Industrial Solutions",
+    "email": "industrial@bosch.de",
+    "phone": "+49-711-40040990",
+    "vatNumber": "DE100000006",
+    "address": "Robert-Bosch-Platz 1, Stuttgart",
+    "status": "APPROVED"
+  },
+  {
+    "companyName": "IKEA Business Germany",
+    "email": "business@ikea.de",
+    "phone": "+49-800-2255453",
+    "vatNumber": "DE100000007",
+    "address": "Am Wandersmann 2, Hofheim",
+    "status": "APPROVED"
+  },
+  {
+    "companyName": "Lenovo Deutschland GmbH",
+    "email": "enterprise@lenovo.de",
+    "phone": "+49-800-5004618",
+    "vatNumber": "DE100000008",
+    "address": "Meitnerstr. 9, Stuttgart",
+    "status": "APPROVED"
+  },
+  {
+    "companyName": "Canon Business Solutions",
+    "email": "sales@canon.de",
+    "phone": "+49-2154-4950",
+    "vatNumber": "DE100000009",
+    "address": "Europark Fichtenhain A10, Krefeld",
+    "status": "APPROVED"
+  },
+  {
+    "companyName": "Schneider Electric Germany",
+    "email": "enterprise@se.com",
+    "phone": "+49-211-7374300",
+    "vatNumber": "DE100000010",
+    "address": "Gothaer Str. 29, Ratingen",
+    "status": "APPROVED"
+  }
+]

@@ -1,0 +1,61 @@
+[
+  { "name": "Dell XPS 15 Laptop", "unitPrice": 1899.99, "supplierIndex": 1 },
+  { "name": "Dell Latitude 7440", "unitPrice": 1499.99, "supplierIndex": 1 },
+  { "name": "Dell UltraSharp 27 Monitor", "unitPrice": 429.99, "supplierIndex": 1 },
+  { "name": "Dell WD22 Docking Station", "unitPrice": 249.99, "supplierIndex": 1 },
+  { "name": "Dell Precision Workstation", "unitPrice": 2899.99, "supplierIndex": 1 },
+
+  { "name": "Logitech MX Master 3S", "unitPrice": 109.99, "supplierIndex": 2 },
+  { "name": "Logitech MX Keys", "unitPrice": 129.99, "supplierIndex": 2 },
+  { "name": "Logitech Brio Webcam", "unitPrice": 179.99, "supplierIndex": 2 },
+  { "name": "Logitech Zone Wireless Headset", "unitPrice": 229.99, "supplierIndex": 2 },
+  { "name": "Logitech Rally Bar", "unitPrice": 3299.99, "supplierIndex": 2 },
+
+  { "name": "HP EliteBook 840", "unitPrice": 1399.99, "supplierIndex": 3 },
+  { "name": "HP ZBook Studio", "unitPrice": 2499.99, "supplierIndex": 3 },
+  { "name": "HP E27 Monitor", "unitPrice": 299.99, "supplierIndex": 3 },
+  { "name": "HP LaserJet Enterprise", "unitPrice": 799.99, "supplierIndex": 3 },
+  { "name": "HP Thunderbolt Dock", "unitPrice": 279.99, "supplierIndex": 3 },
+
+  { "name": "Cisco Catalyst 9200 Switch", "unitPrice": 3299.99, "supplierIndex": 4 },
+  { "name": "Cisco Meraki MX75", "unitPrice": 1199.99, "supplierIndex": 4 },
+  { "name": "Cisco Business Access Point", "unitPrice": 449.99, "supplierIndex": 4 },
+  { "name": "Cisco ISR Router", "unitPrice": 2199.99, "supplierIndex": 4 },
+  { "name": "Cisco IP Phone 8845", "unitPrice": 399.99, "supplierIndex": 4 },
+
+  { "name": "Siemens Industrial PLC", "unitPrice": 4999.99, "supplierIndex": 5 },
+  { "name": "Siemens HMI Panel", "unitPrice": 1899.99, "supplierIndex": 5 },
+  { "name": "Siemens Motor Controller", "unitPrice": 899.99, "supplierIndex": 5 },
+  { "name": "Siemens Smart Sensor", "unitPrice": 299.99, "supplierIndex": 5 },
+  { "name": "Siemens Industrial Gateway", "unitPrice": 1599.99, "supplierIndex": 5 },
+
+  { "name": "Bosch Cordless Drill Set", "unitPrice": 249.99, "supplierIndex": 6 },
+  { "name": "Bosch Industrial Grinder", "unitPrice": 449.99, "supplierIndex": 6 },
+  { "name": "Bosch Laser Distance Meter", "unitPrice": 199.99, "supplierIndex": 6 },
+  { "name": "Bosch Tool Storage Cabinet", "unitPrice": 899.99, "supplierIndex": 6 },
+  { "name": "Bosch Safety Kit", "unitPrice": 129.99, "supplierIndex": 6 },
+
+  { "name": "IKEA Bekant Desk", "unitPrice": 399.99, "supplierIndex": 7 },
+  { "name": "IKEA Markus Office Chair", "unitPrice": 249.99, "supplierIndex": 7 },
+  { "name": "IKEA Kallax Storage Unit", "unitPrice": 149.99, "supplierIndex": 7 },
+  { "name": "IKEA Conference Table", "unitPrice": 899.99, "supplierIndex": 7 },
+  { "name": "IKEA Filing Cabinet", "unitPrice": 179.99, "supplierIndex": 7 },
+
+  { "name": "Lenovo ThinkPad X1 Carbon", "unitPrice": 1999.99, "supplierIndex": 8 },
+  { "name": "Lenovo ThinkCentre M90", "unitPrice": 1199.99, "supplierIndex": 8 },
+  { "name": "Lenovo ThinkVision Monitor", "unitPrice": 349.99, "supplierIndex": 8 },
+  { "name": "Lenovo USB-C Dock", "unitPrice": 229.99, "supplierIndex": 8 },
+  { "name": "Lenovo Legion Workstation", "unitPrice": 2499.99, "supplierIndex": 8 },
+
+  { "name": "Canon imageRUNNER Printer", "unitPrice": 2299.99, "supplierIndex": 9 },
+  { "name": "Canon Document Scanner", "unitPrice": 799.99, "supplierIndex": 9 },
+  { "name": "Canon Business Projector", "unitPrice": 1499.99, "supplierIndex": 9 },
+  { "name": "Canon Ink Cartridge Pack", "unitPrice": 119.99, "supplierIndex": 9 },
+  { "name": "Canon Meeting Room Camera", "unitPrice": 999.99, "supplierIndex": 9 },
+
+  { "name": "Schneider UPS System", "unitPrice": 1799.99, "supplierIndex": 10 },
+  { "name": "Schneider Smart Breaker", "unitPrice": 599.99, "supplierIndex": 10 },
+  { "name": "Schneider Power Distribution Unit", "unitPrice": 899.99, "supplierIndex": 10 },
+  { "name": "Schneider Cooling Controller", "unitPrice": 1399.99, "supplierIndex": 10 },
+  { "name": "Schneider Industrial Relay", "unitPrice": 89.99, "supplierIndex": 10 }
+]

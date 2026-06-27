@@ -62,7 +62,7 @@ enum SupplierStatus {
 model Product {
   id               String            @id @default(uuid())
   name             String
-  description      String
+  description      String?
   unitPrice        Decimal?          @db.Decimal(10, 2)
   supplierId       String
   supplier         Supplier          @relation(fields: [supplierId], references: [id])

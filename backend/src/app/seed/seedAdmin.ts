@@ -1,6 +1,6 @@
 import bcrypt from 'bcryptjs';
-import { prisma } from './app/lib/prisma';
-import { RoleEnum } from './generated/prisma/enums';
+import { prisma } from '../lib/prisma';
+import { RoleEnum } from '../../generated/prisma/enums';
 
 async function main() {
   const salt = 10;
