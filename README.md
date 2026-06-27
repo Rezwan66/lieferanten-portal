@@ -90,17 +90,12 @@ Description
 The MVP:
 
 ```
-Admin creates employee accounts
-↓
-Supplier registers
-↓
-Admin approves supplier
-↓
+
 Employee creates purchase request
 ↓
 Employee selects supplier
 ↓
-Supplier logs in
+Admin reviews
 ↓
 Supplier sees assigned request
 ↓
@@ -134,21 +129,38 @@ Employee        Supplier
 ## ERD
 
 ```
-User            Role
-----            ----
-id              id
-email           name
+User
+----
+id
+email
 password
-roleId
+role
 
-Profile         Supplier
--------         --------
-id              id
-userId          userId
-name            companyName
-avatar          vatNumber
-                address
-                status
+1 ─── 1 Profile
+
+1 ─── N PurchaseRequest
+
+
+Profile
+-------
+id
+userId
+name
+avatar
+
+
+Supplier
+--------
+id
+companyName
+email
+phone
+vatNumber
+address
+status
+
+1 ─── N PurchaseRequest
+
 
 PurchaseRequest
 ---------------
@@ -157,17 +169,13 @@ title
 description
 priority
 status
-
-createdById -> User
-
-supplierId -> Supplier
-
+createdById
+supplierId
 createdAt
-
 updatedAt
 ```
 
-Relationships
+### Relationships
 
 **Role** 1-N **User** 1-1 **Profile**
 
