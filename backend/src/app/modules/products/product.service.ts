@@ -7,6 +7,7 @@ const getAllProducts = async () => {
         supplier: true,
         purchaseRequests: true,
       },
+      take: 10,
     });
   } catch (error) {
     console.error('Failed to fetch all products:', error);
